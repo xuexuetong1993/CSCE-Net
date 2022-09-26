@@ -3,7 +3,7 @@
 COMING SOON!
 
 ## Pipeline
-<p align="center"><img width="90%" src="pipeline.png" /></p>
+<p align="center"><img width="90%" src="pipline_623.png" /></p>
 
 
 ## Performances
