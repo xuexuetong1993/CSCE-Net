@@ -63,7 +63,7 @@ python evaler/infer.py --cfg configs/xxx2.yaml
 If the project helps your research, please consider citing our paper as follows.
 
 ```BibTeX
-@InProceedings{Yang_2021_ICCV,
+@InProceedings{Xue_2022_ACML,
     author={xxx,xxx},
     title={CSCE-Net:Cross-Scale Context Extracted Hashing for Fine-Grained Image Binary Encoding},
     booktitle={xxx},
