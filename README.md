@@ -1,5 +1,6 @@
 # CSCE-Net:Cross-Scale Context Extracted Hashing for Fine-Grained Image Binary Encoding
 
+COMING SOON!
 
 ## Pipeline
 <p align="center"><img width="90%" src="imgs/pipeline.pdf" /></p>
@@ -52,9 +53,9 @@ python evaler/infer.py --cfg configs/xxx2.yaml
 
 
 ### Wights
-coming soon!
 
-- [R-50-DOLG](https://xxx) (xxx)   - [R-101-DOLG](https://xxx) (xxx)
+- [R-50-DOLG](https://xxx) (xxx)  
+- [R-101-DOLG](https://xxx) (xxx)
 
 
 ## Citation
