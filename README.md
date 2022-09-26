@@ -31,7 +31,7 @@ COMING SOON!
 ```
 pip install -r requirements.txt
 ```
-
+<!-- 
 ### Training
 
 1. Refer to [`DATA.md`](imgs/DATA.md).
@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 ```
 python train.py \
-    --cfg configs/xxx.yaml 
+    --cfg configs/xxx.yaml  -->
 ```
 
 ### Evaluation
@@ -77,7 +77,7 @@ If the project helps your research, please consider citing our paper as follows.
 
 ## References
 
-xxx(https://github.com/xxx)
+<!-- xxx(https://github.com/xxx)
 xxx(https://github.com/xx)
 DOLG(https://github.com/feymanpriv/DOLG)
-
+ -->
