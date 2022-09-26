@@ -54,8 +54,8 @@ python evaler/infer.py --cfg configs/xxx2.yaml
 
 ### Wights
 
-- [R-50-DOLG](https://xxx) (xxx)  
-- [R-101-DOLG](https://xxx) (xxx)
+- [CSCE-res50](https://xxx) (xxx)  
+- [CSCE-gcvit](https://xxx) (xxx)
 
 
 ## Citation
